@@ -75,19 +75,19 @@ python app.py
 
 ## Usage
 
-* /open <i>vk</i> - open the link .com
-* /open r <i>kinopoisk</i> - link .ru
-* /st - I'll collapse and load
-* /sleep - I'll switch to sleep mode
-* /volume - from the volume menu
-* /music - I'll open Yandex.Music
-* /kino - I'll open kinopoisk
-* /tg - open Telegram
-* /ru - minimize windows
-* /pause - pause video or music
-* /close - close window
-* /site  <i>https://vk.com/nolupi </i> - insert the link
-* /imp on the right - I will open Genshin Impact
+* <b>/open</b> <i>vk</i> - open the link .com
+* <b>/open</b> r <i>kinopoisk</i> - link .ru
+* <b>/st</b> - I'll collapse and load
+* <b>/sleep</b> - I'll switch to sleep mode
+* <b>/volume</b> - from the volume menu
+* <b>/music</b> - I'll open Yandex.Music
+* <b>/kino</b> - I'll open kinopoisk
+* <b>/tg</b> - open Telegram
+* <b>/ru</b> - minimize windows
+* <b>/pause</b> - pause video or music
+* <b>/close</b> - close window
+* <b>/site</b> <i>https://vk.com/nolupi </i> - insert the link
+* <b>/imp</b> on the right - I will open Genshin Impact
 
 ## Contributing
 
