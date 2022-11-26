@@ -8,4 +8,4 @@ bot/data/__pycache__
 bot/handlers/__pycache__
 bot/handlers/users/__pycache__
 bot/utils/__pycache__
-bot/img/
+bot/img
