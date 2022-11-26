@@ -65,7 +65,9 @@ git clone https://github.com/NoLupiPls/Lexsi.git
 pip install -r requirements.txt
 ```
 
-4. Start the project
+4. Replace the env settings and rename to .env
+
+5. Start the project
 
 ```sh
 python app.py
