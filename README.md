@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">Lexsi</h2>
+  <h1 align="center">Lexsi</h1>
 
   <p align="center">
     Awesome Telegram bot for managing your Windows PC
