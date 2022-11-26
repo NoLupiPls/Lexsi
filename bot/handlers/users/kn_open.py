@@ -3,6 +3,10 @@ import webbrowser
 
 from loader import dp
 from bot.data.config import OWNER as own
+from bot.middlewares.i18n import setup_middleware
+
+i18n = setup_middleware(dp)
+_ = i18n.gettext
 
 
 @dp.message_handler(commands="kino")
@@ -12,6 +16,6 @@ async def open_kinopoisk(message: types.Message):
         url = 'https://kinopoisk.ru'
         # Open the URL using open() function of module
         webbrowser.open_new_tab(url)
-        await message.answer("🎞 <b>Кинопоиск</b> открыт")
+        await message.answer(_("🎞 <b>Кинопоиск</b> открыт"))
     else:
         pass

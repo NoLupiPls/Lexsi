@@ -1,0 +1,118 @@
+# English translations for Lexsi.
+# Copyright (C) 2022 NoLupi
+# This file is distributed under the same license as the NoLupi project.
+# nolupipls@gmail.com, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.2.0.1\n"
+"Report-Msgid-Bugs-To: nolupipls@gmail.com\n"
+"POT-Creation-Date: 2022-11-26 21:17+0700\n"
+"PO-Revision-Date: 2022-11-26 21:25+0700\n"
+"Last-Translator: nolupipls@gmail.com\n"
+"Language: en\n"
+"Language-Team: en NONE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: bot/handlers/users/argsite_open.py:24
+msgid "Введи текст в качестве аргумента команды, и я открою ссылку."
+msgstr "Enter the text as the command argument, and I'll open the link."
+
+#: bot/handlers/users/close.py:16
+msgid "🚫 Окно закрыто"
+msgstr "🚫 The window is closed"
+
+#: bot/handlers/users/close_mute.py:17
+msgid "✅ Готово!"
+msgstr "✅ Done!"
+
+#: bot/handlers/users/help.py:14
+msgid ""
+"/openc <i>vk</i> - открыть ссылку .com\n"
+"/openr <i>kinopoisk</i> - ссылка .ru\n"
+"/st - сверну и замьючу\n"
+"/sleep - переведу в режим сна\n"
+"/volume - изменю громкость\n"
+"/music - открою Яндекс.Музыку\n"
+"/kino - открою кинопоиск\n"
+"/tg - открою Telegram\n"
+"/ru - сверну окна\n"
+"/pause - пауза видео или музыки\n"
+"/close - закрою окно\n"
+"/site <i>https://vk.com/nolupi</i> - вставьте справа ссылку\n"
+"/imp - открою хуйювёрсе"
+msgstr ""
+"/open <i>vk</i> - open the link .com\n"
+"/open <i>kinopoisk</i> - link .ru\n"
+"/st - I will collapse and pack \n"
+"/sleep - I will switch to sleep mode\n"
+"/volume - from the volume menu\n"
+"/music - I will open Yandex.Music\n"
+"/kino - I'll open kinopoisk\n"
+"/tg - open Telegram\n"
+"/ru - minimize windows\n"
+"/pause - pause video or music\n"
+"/close - close the window\n"
+"/site <i>https://vk.com/nolupi </i> - insert the \n link on the right"
+"/imp - I will open the genshin impact"
+
+#: bot/handlers/users/kn_open.py:19
+msgid "🎞 <b>Кинопоиск</b> открыт"
+msgstr "🎞 <b>Kinopoisk</b> is open"
+
+#: bot/handlers/users/open_photo.py:20
+msgid "🖥 Вывел фото на <b>дисплей</b>"
+msgstr "🖥 Brought the photo to the <b>display</b>"
+
+#: bot/handlers/users/open_search_yandex.py:24
+msgid "Введи что ты будешь искать и я тебе открою ссылку в браузере!"
+msgstr "Enter what you're looking for and I'll open the link in the browser for you!"
+
+#: bot/handlers/users/openc_site.py:24
+msgid "[COM] Введи текст в качестве аргумента команды, и я открою ссылку."
+msgstr "[COM] Enter the text as the command argument, and I'll open the link."
+
+#: bot/handlers/users/openr_site.py:24
+msgid "[RU] Введи текст в качестве аргумента команды, и я открою ссылку."
+msgstr "[RU] Enter the text as the command argument, and I'll open the link."
+
+#: bot/handlers/users/rollup.py:16
+msgid "↪ Окна свёрнуты"
+msgstr "↪ Windows are collapsed"
+
+#: bot/handlers/users/sleep.py:16
+msgid "✅ Буквально через пару секунд я Ваш ноутбук переведу в <b>режим сна</b>"
+msgstr "✅ Literally in a couple of seconds I will put your laptop into <b>sleep mode</b>"
+
+#: bot/handlers/users/tg_open.py:22
+msgid "📊 <b>Telegram</b> открыт!"
+msgstr "📊 <b>Telegram</b> is open!"
+
+#: bot/handlers/users/volume.py:16
+msgid ""
+"Кнопки выведены на экран! \n"
+"<b>Смотрите ниже:</b>"
+msgstr ""
+"The buttons are displayed on the screen! \n"
+"<b>See below:</b>
+
+#: bot/handlers/users/volume.py:24
+msgid "↗ Громкость увеличена на 2"
+msgstr "↗ Volume increased by 2"
+
+#: bot/handlers/users/volume.py:30
+msgid "↘ Громкость уменьшена на 2"
+msgstr "↘ Volume reduced by 2"
+
+#: bot/handlers/users/volume.py:36
+msgid "⛔ Звук выключен"
+msgstr "⛔ Sound is off"
+
+#: bot/handlers/users/ym_open.py:21
+msgid "🎧 <b>Яндекс.Музыка</b> открыта!"
+msgstr "🎧 <b>Yandex.Music</b> is open!"
+

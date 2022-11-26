@@ -1,5 +1,4 @@
 import logging
-
 from aiogram import Dispatcher
 
 from bot.data.config import admins_id
