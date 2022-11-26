@@ -1,0 +1,10 @@
+userbot
+venv
+.env
+.idea
+__pycache__
+bot/filters/__pycache__
+bot/data/__pycache__
+bot/handlers/__pycache__
+bot/handlers/users/__pycache__
+bot/utils/__pycache__
