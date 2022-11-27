@@ -34,6 +34,9 @@
 
 ![Screen Shot](images/screenshot.png)
 
+
+**guys who are reading this, please put an asterisk (star) :)**
+
 There are many repositories available on GitHub, but I didn't find a single bot in Telegram for personal computer management on Windows OS. That's why I created one.
 
 Of course, no bot will serve all your needs, as your needs may be different. So I will add more in the near future. You can also suggest changes by branching this repository and creating a pull request or opening a problem.
