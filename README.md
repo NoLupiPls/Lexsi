@@ -46,7 +46,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Built With
 
 * Aiogram
-* PyAytoGUI
+* PyAutoGUI
 * Python-dotenv
 
 ## Getting Started
